@@ -1,258 +1,258 @@
-RunNr	RunType	Sample	HitscoreThreshold	PhotonEnergyEV	PnCCDRescaleQ1AC0	PnCCDRescaleQ1AC1	PnCCDRescaleQ1AC2	PnCCDRescaleQ1AC3	PnCCDDX	PnCCDDY	PnCCDTimingGap
-1	Dark	None	-1	-1	1	1	1	1	49	-3	12
-2	Dark	None	-1	-1	1	1	1	1	49	-3	12
-3	Sample	Sucrose	4500	530	1	1	1	1	49	-3	12
-4	Sample	Sucrose	4300	530	1	1	1	1	49	-3	12
-5	Sample	Sucrose	4500	530	1	1	1	1	49	-3	12
-6	Sample	Sucrose	5300	530	1	1	1	1	49	-3	12
-7	Sample	Sucrose	5200	530	1	1	1	1	49	-3	12
-8	Sample	Sucrose	5300	530	1	1	1	1	49	-3	12
-9	Sample	Sucrose	5300	530	1	1	1	1	49	-3	12
-10	Dark	None	-1	-1	1	1	1	1	49	-3	12
-11	Sample	Sucrose	4600	530	1	1	1	1	49	-3	12
-12	Sample	Sucrose	4500	800	1	1	1	1	49	-3	12
-13	Sample	Sucrose	4000	1000	1	1	1	1	49	-3	12
-14	Sample	Sucrose	3500	1140	2	1	1	1	49	-3	12
-15	Sample	Sucrose	2800	1483	2	1	1	1	49	-3	12
-16	Sample	Sucrose	2800	1483	2	1	1	1	49	-3	12
-17	Sample	Sucrose	2800	1483	2	1	1	1	49	-3	12
-18	Sample	Sucrose	-1	1483	2	1	1	1	49	-3	12
-19	Sample	Sucrose	-1	1184	1	1	1	1	49	-3	12
-20	Sample	Sucrose	3600	1184	1	1	1	1	49	-3	12
-21	Sample	Sucrose	3600	1184	1	1	1	1	49	-3	12
-22	Sample	Sucrose	3600	1184	1	1	1	1	49	-3	12
-23	Sample	Sucrose	3600	1184	1	1	1	1	49	-3	12
-24	Sample	Sucrose	3500	1184	1	1	1	1	49	-3	12
-25	Sample	Sucrose	3500	1184	1	1	1	1	49	-3	12
-26	Sample	Sucrose	3500	1184	1	1	1	1	49	-3	12
-27	Sample	Sucrose	3300	1184	1	1	1	1	49	-3	12
-28	Sample	Sucrose	3300	1184	1	1	1	1	49	-3	12
-29	Sample	Sucrose	3300	1184	1	1	1	1	49	-3	12
-30	Sample	Sucrose	3300	1184	1	1	1	1	49	-3	12
-31	Sample	Sucrose	3300	1184	1	1	1	1	49	-3	12
-32	Dark	None	-1	-1	1	1	1	1	49	-3	12
-33	Dark	None	-1	-1	1	1	1	1	73	-3	0
-34	Dark	None	-1	-1	1	1	1	1	73	-3	12
-35	Dark	None	-1	-1	1	1	1	1	73	-3	12
-36	Background	None	3600	670	2	1	1	1	73	-3	12
-37	Background	None	4500	670	2	1	1	1	73	-3	12
-38	Sample	Sucrose	4500	670	2	1	1	1	73	-3	12
-39	Sample	Sucrose	4700	670	2	1	1	1	73	-3	12
-40	Sample	Sucrose	4700	670	2	1	1	1	73	-3	12
-41	Sample	Sucrose	5000	670	2	1	1	1	73	-3	12
-42	Dark	None	-1	-1	1	1	1	1	73	-3	12
-43	Void	None	-1	-1	1	1	1	1	73	-3	12
-44	Dark	None	-1	-1	1	1	1	1	73	-3	12
-45	Background	None	1300	800	2	2	1	1	73	-3	12
-46	Dark	None	-1	-1	1	1	1	1	73	-3	12
-47	Sample	Sucrose	1500	800	2	2	1	1	73	-3	12
-48	Sample	Sucrose	1600	800	2	2	1	1	73	-3	12
-49	Sample	Sucrose	4000	800	2	2	1	1	73	-3	12
-50	Buffer	Buffer	1400	800	1	2	1	1	73	-3	12
-51	Sample	Carboxysomes	1250	800	1	2	1	1	73	-3	12
-52	Sample	Carboxysomes	1400	800	1	2	1	1	73	-3	12
-53	Sample	Carboxysomes	1400	800	1	2	1	1	73	-3	12
-54	Sample	Carboxysomes	1400	800	1	2	1	1	73	-3	12
-55	Sample	Carboxysomes	1400	800	1	2	1	1	73	-3	12
-56	Sample	Carboxysomes	1300	800	1	2	1	1	73	-3	12
-57	Dark	None	-1	-1	1	1	1	1	73	-3	12
-58	Buffer	Buffer	1200	800	1	2	1	1	73	-3	12
-59	Buffer	Buffer	1400	800	1	2	1	1	73	-3	12
-60	Buffer	Buffer	1200	800	1	2	1	1	73	-3	12
-61	Buffer	Buffer	1250	800	1	2	1	1	73	-3	12
-62	Void	None	-1	-1	1	1	1	1	73	-3	12
-63	Dark	None	-1	-1	1	1	1	1	73	-3	12
-64	Sample	Carboxysomes	1300	800	1	1	1	1	73	-3	12
-65	Sample	Carboxysomes	1600	800	1	1	1	1	73	-3	12
-66	Sample	Carboxysomes	1700	800	1	1	1	1	73	-3	12
-67	Void	None	-1	-1	1	1	1	1	73	-3	12
-68	Buffer	Buffer	1250	800	1	1	1	1	73	-3	12
-69	Buffer	Buffer	1200	800	1	1	1	1	73	-3	12
-70	Sample	Carboxysomes	1200	800	1	1	1	1	73	-3	12
-71	Sample	Carboxysomes	1500	800	1	1	1	1	73	-3	12
-72	Sample	Carboxysomes	1700	800	1	1	1	1	73	-3	12
-73	Sample	Carboxysomes	1800	800	1	1	1	1	73	-3	12
-74	Dark	None	-1	-1	1	1	1	1	73	-3	12
-75	Sample	Trinity	1300	800	1	1	1	1	73	-3	12
-76	Sample	Trinity	1350	800	1	1	1	1	73	-3	12
-77	Dark	None	-1	-1	1	1	1	1	73	-3	12
-78	Sample	Trinity	2550	800	1	1	1	1	73	-3	12
-79	Dark	None	-1	-1	1	1	1	1	73	-3	12
-80	Sample	Sucrose	3000	900	1	1	1	1	73	-3	12
-81	Sample	Sucrose	3000	900	1	1	1	1	73	-3	12
-82	Sample	Sucrose	2700	900	1	1	1	1	73	-3	12
-83	Sample	Sucrose	2600	900	1	1	1	1	73	-3	12
-84	Dark	None	-1	-1	1	1	1	1	73	-3	12
-85	Void	None	-1	-1	1	1	1	1	73	-3	0
-86	Dark	None	-1	-1	1	1	1	1	73	-3	0
-87	Sample	Sucrose	2700	800	2	2	1	1	73	-3	0
-88	Sample	Sucrose	2800	800	2	2	1	1	73	-3	0
-89	Sample	Sucrose	3000	800	2	2	1	1	73	-3	0
-90	Sample	Sucrose	3000	800	2	2	1	1	73	-3	0
-91	Sample	Sucrose	3500	800	2	2	1	1	73	-3	0
-92	Sample	Sucrose	3500	800	2	2	1	1	73	-3	0
-93	Buffer	None	3500	800	2	2	1	1	73	-3	0
-94	Dark	None	-1	-1	1	1	1	1	73	-3	0
-95	Buffer	None	4000	800	2	2	1	1	73	-3	0
-96	Buffer	None	3500	800	2	2	1	1	73	-3	0
-97	Buffer	None	3500	800	2	2	1	1	73	-3	0
-98	Sample	PBCV	3500	800	2	2	1	1	73	-3	0
-99	Dark	None	-1	-1	1	1	1	1	73	-3	0
-100	Sample	PBCV	3300	800	2	2	1	1	32	-3	0
-101	Void	None	-1	-1	1	1	1	1	32	-3	0
-102	Dark	None	-1	-1	1	1	1	1	32	-3	0
-103	Buffer	None	2700	800	2	2	1	1	32	-3	12
-104	Buffer	None	2600	800	2	2	1	1	32	-3	12
-105	Buffer	None	2700	800	2	2	1	1	32	-3	12
-106	Sample	Carboxysomes	2700	800	2	2	1	1	32	-3	12
-107	Sample	Carboxysomes	2900	800	2	2	1	1	32	-3	12
-108	Sample	Carboxysomes	2900	800	2	2	1	1	32	-3	12
-109	Sample	Carboxysomes	3000	800	2	2	1	1	32	-3	12
-110	Sample	Carboxysomes	3300	800	2	2	1	1	32	-3	12
-111	Sample	Carboxysomes	2800	800	2	2	1	1	32	-3	12
-112	Sample	Carboxysomes	2700	800	2	2	1	1	32	-3	12
-113	Sample	Carboxysomes	2850	800	2	2	1	1	32	-3	12
-114	Sample	Carboxysomes	3100	800	2	2	1	1	32	-3	12
-115	Sample	Carboxysomes	3200	800	2	2	1	1	32	-3	12
-116	Sample	Carboxysomes	3200	800	2	2	1	1	32	-3	12
-117	Sample	Carboxysomes	3500	800	2	2	1	1	32	-3	12
-118	Sample	Carboxysomes	3300	800	2	2	1	1	32	-3	12
-119	Sample	Carboxysomes	3300	800	2	2	1	1	32	-3	12
-120	Sample	Carboxysomes	3300	800	2	1	1	1	32	-3	12
-121	Sample	Carboxysomes	3300	800	2	1	1	1	32	-3	12
-122	Sample	Carboxysomes	3000	800	2	1	1	1	32	-3	12
-123	Sample	Carboxysomes	3100	800	2	1	1	1	32	-3	12
-124	Sample	Carboxysomes	3100	800	2	1	1	1	32	-3	12
-125	Sample	Carboxysomes	3200	800	2	1	1	1	32	-3	12
-126	Sample	Carboxysomes	3500	800	2	1	1	1	32	-3	12
-127	Sample	Carboxysomes	3200	800	2	1	1	1	32	-3	12
-128	Sample	Carboxysomes	3100	800	2	1	1	1	32	-3	12
-129	Sample	Carboxysomes	3300	800	2	1	1	1	32	-3	12
-130	Sample	Carboxysomes	3300	800	2	1	1	1	32	-3	12
-131	Sample	Carboxysomes	3300	800	2	1	1	1	32	-3	12
-132	Sample	TBSV	3100	800	2	1	1	1	32	-3	12
-133	Sample	TBSV	3000	800	2	1	1	1	32	-3	12
-134	Sample	TBSV	3200	800	2	1	1	1	32	-3	12
-135	Sample	TBSV	3000	800	2	1	1	1	32	-3	12
-136	Dark	None	-1	-1	1	1	1	1	32	-3	12
-137	Sample	TBSV	3300	800	2	1	1	1	32	-3	12
-138	Sample	TBSV	3000	800	2	1	1	1	32	-3	12
-139	Sample	TBSV	3000	800	2	1	1	1	32	-3	12
-140	Sample	TBSV	3100	800	2	1	1	1	32	-3	12
-141	Sample	TBSV	2800	800	2	1	1	1	32	-3	12
-142	Sample	TBSV	2700	800	2	1	1	1	32	-3	12
-143	Sample	MS2	2600	800	2	1	1	1	32	-3	12
-144	Sample	MS2	2900	800	2	1	1	1	32	-3	12
-145	Void	None	-1	-1	1	1	1	1	32	-3	12
-146	Buffer	None	-1	800	1	1	1	1	32	-3	12
-147	Background	None	-1	800	1	1	1	1	32	-3	12
-148	Buffer	None	-1	800	1	1	1	1	32	-3	12
-149	Sample	Rubisco	-1	800	1	1	1	1	32	-3	12
-150	Sample	Rubisco	-1	800	1	1	1	1	32	-3	12
-151	Background	None	-1	800	1	1	1	1	32	-3	12
-152	Background	None	-1	800	1	1	1	1	32	-3	12
-153	Background	None	-1	800	1	1	1	1	32	-3	12
-154	Background	None	-1	800	1	1	1	1	32	-3	12
-155	Dark	None	-1	-1	1	1	1	1	32	-3	12
-156	Void	None	-1	-1	1	1	1	1	32	-3	0
-157	Dark	None	-1	-1	1	1	1	1	32	-3	0
-158	Sample	Sucrose	1500	800	2	2	1	1	32	-3	0
-159	Sample	Sucrose	2000	800	2	2	1	1	32	-3	0
-160	Dark	None	-1	-1	1	1	1	1	24	-3	0
-161	Sample	Rubisco	-1	800	1	2	1	1	24	-3	0
-162	Sample	Rubisco	-1	800	1	2	1	1	24	-3	12
-163	Sample	Rubisco	-1	800	1	2	1	1	24	-3	12
-164	Sample	Rubisco	-1	800	1	2	1	1	24	-3	12
-165	Dark	None	-1	-1	1	1	1	1	24	-3	12
-166	Sample	Sucrose	2600	800	2	2	1	1	44	-3	12
-167	Sample	Sucrose	2700	800	2	2	1	1	44	-3	12
-168	Sample	Sucrose	3000	800	2	2	1	1	44	-3	12
-169	Dark	None	-1	-1	1	1	1	1	44	-3	12
-170	Buffer	None	2600	800	2	2	1	1	44	-3	12
-171	Sample	TBSV	2700	800	2	2	1	1	44	-3	12
-172	Sample	TBSV	2700	800	2	2	1	1	44	-3	12
-173	Sample	TBSV	2700	800	2	2	1	1	44	-3	12
-174	Sample	TBSV	2700	800	2	2	1	1	44	-3	12
-175	Sample	TBSV	2700	800	2	2	1	1	44	-3	12
-176	Sample	TBSV	2750	800	2	2	1	1	44	-3	12
-177	Sample	TBSV	2700	800	2	2	1	1	44	-3	12
-178	Sample	TBSV	2900	800	2	2	1	1	44	-3	12
-179	Sample	TBSV	2700	800	2	2	1	1	44	-3	12
-180	Sample	TBSV	2700	800	2	2	1	1	44	-3	12
-181	Sample	TBSV	2700	800	2	1	1	1	44	-3	12
-182	Sample	TBSV	2700	800	2	1	1	1	44	-3	12
-183	Sample	TBSV	2700	800	2	1	1	1	44	-3	12
-184	Dark	None	-1	-1	1	1	1	1	44	-3	12
-185	Buffer	None	-1	800	1	1	1	1	44	-3	12
-186	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-187	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-188	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-189	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-190	Void	None	-1	-1	1	1	1	1	44	-3	12
-191	Dark	None	-1	-1	1	1	1	1	44	-3	12
-192	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-193	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-194	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-195	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-196	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-197	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-198	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-199	Sample	Rubisco	-1	800	1	1	1	1	44	-3	12
-200	Sample	Rubisco	-1	800	1	1	1	1	46	-3	12
-201	Dark	None	-1	800	1	1	1	1	46	-3	12
-202	Sample	Rubisco	-1	800	1	1	1	1	46	-3	12
-203	Buffer	None	-1	800	1	1	1	1	46	-3	12
-204	Sample	Rubisco	-1	800	1	1	1	1	46	-3	12
-205	Sample	Rubisco	-1	800	1	1	1	1	46	-3	12
-206	Sample	Rubisco	-1	800	1	1	1	1	46	-3	12
-207	Void	None	-1	-1	1	1	1	1	46	-3	12
-208	Void	None	-1	-1	1	1	1	1	46	-3	12
-209	Void	None	-1	-1	1	1	1	1	46	-3	12
-210	Void	None	-1	-1	1	1	1	1	46	-3	12
-211	Void	None	-1	-1	1	1	1	1	46	-3	12
-212	Void	None	-1	-1	1	1	1	1	46	-3	12
-213	Void	None	-1	-1	1	1	1	1	46	-3	12
-214	Void	None	-1	-1	1	1	1	1	46	-3	12
-215	Void	None	-1	-1	1	1	1	1	46	-3	12
-216	Void	None	-1	-1	1	1	1	1	46	-3	12
-217	Void	None	-1	-1	1	1	1	1	46	-3	12
-218	Void	None	-1	-1	1	1	1	1	46	-3	12
-219	Void	None	-1	-1	1	1	1	1	46	-3	12
-220	Void	None	-1	-1	1	1	1	1	46	-3	12
-221	Void	None	-1	-1	1	1	1	1	46	-3	12
-222	Void	None	-1	-1	1	1	1	1	46	-3	12
-223	Void	None	-1	-1	1	1	1	1	46	-3	12
-224	Void	None	-1	-1	1	1	1	1	46	-3	12
-225	Void	None	-1	-1	1	1	1	1	46	-3	12
-226	Void	None	-1	-1	1	1	1	1	46	-3	12
-227	Void	None	-1	-1	1	1	1	1	46	-3	12
-228	Void	None	-1	-1	1	1	1	1	46	-3	12
-229	Void	None	-1	-1	1	1	1	1	46	-3	12
-230	Void	None	-1	-1	1	1	1	1	46	-3	12
-231	Void	None	-1	-1	1	1	1	1	46	-3	12
-232	Sample	Sucrose	4200	800	2	2	1	1	46	-3	12
-233	Sample	Sucrose	4100	800	2	2	1	1	46	-3	12
-234	Sample	Sucrose	4100	800	2	2	1	1	46	-3	12
-235	Sample	Sucrose	4100	800	2	2	1	1	46	-3	12
-236	Sample	Sucrose	4300	800	2	2	1	1	46	-3	12
-237	Sample	Sucrose	4700	800	2	2	1	1	46	-3	12
-238	Sample	Sucrose	4300	800	2	2	1	1	46	-3	12
-239	Void	None	-1	-1	1	1	1	1	46	-3	12
-240	Sample	TBSV	4600	800	2	2	1	1	46	-3	12
-241	Sample	TBSV	4500	800	2	2	1	1	46	-3	12
-242	Sample	TBSV	4400	800	2	2	1	1	46	-3	12
-243	Sample	TBSV	4500	800	2	2	1	1	46	-3	12
-244	Sample	TBSV	4500	800	2	2	1	1	46	-3	12
-245	Sample	TBSV	4500	800	2	2	1	1	46	-3	12
-246	Sample	TBSV	4500	800	2	2	1	1	46	-3	12
-247	Sample	TBSV	4400	800	2	2	1	1	46	-3	12
-248	Dark	None	-1	-1	1	1	1	1	46	-3	12
-249	Sample	Rubisco	4100	800	2	2	1	1	46	-3	12
-250	Sample	Rubisco	6000	800	2	2	1	1	46	-3	12
-251	Sample	Rubisco	5900	800	2	2	1	1	46	-3	12
-252	Sample	Rubisco	-1	800	2	2	1	1	46	-3	12
-253	Sample	Rubisco	-1	800	2	2	1	1	46	-3	12
-254	Sample	Rubisco	-1	800	2	2	1	1	46	-3	12
-255	Background	None	6300	800	2	2	1	1	46	-3	12
-256	Background	None	1000	800	2	2	1	1	46	-3	12
-257	Dark	None	-1	-1	1	1	1	1	46	-3	12
+RunNr,RunType,Sample,HitscoreThreshold,PhotonEnergyEV,PnCCDRescaleQ1AC0,PnCCDRescaleQ1AC1,PnCCDRescaleQ1AC2,PnCCDRescaleQ1AC3,PnCCDDX,PnCCDDY,PnCCDTimingGap
+1,Dark,None,-1,-1,1,1,1,1,49,-3,12
+2,Dark,None,-1,-1,1,1,1,1,49,-3,12
+3,Sample,Sucrose,4500,530,1,1,1,1,49,-3,12
+4,Sample,Sucrose,4300,530,1,1,1,1,49,-3,12
+5,Sample,Sucrose,4500,530,1,1,1,1,49,-3,12
+6,Sample,Sucrose,5300,530,1,1,1,1,49,-3,12
+7,Sample,Sucrose,5200,530,1,1,1,1,49,-3,12
+8,Sample,Sucrose,5300,530,1,1,1,1,49,-3,12
+9,Sample,Sucrose,5300,530,1,1,1,1,49,-3,12
+10,Dark,None,-1,-1,1,1,1,1,49,-3,12
+11,Sample,Sucrose,4600,530,1,1,1,1,49,-3,12
+12,Sample,Sucrose,4500,800,1,1,1,1,49,-3,12
+13,Sample,Sucrose,4000,1000,1,1,1,1,49,-3,12
+14,Sample,Sucrose,3500,1140,2,1,1,1,49,-3,12
+15,Sample,Sucrose,2800,1483,2,1,1,1,49,-3,12
+16,Sample,Sucrose,2800,1483,2,1,1,1,49,-3,12
+17,Sample,Sucrose,2800,1483,2,1,1,1,49,-3,12
+18,Sample,Sucrose,-1,1483,2,1,1,1,49,-3,12
+19,Sample,Sucrose,-1,1184,1,1,1,1,49,-3,12
+20,Sample,Sucrose,3600,1184,1,1,1,1,49,-3,12
+21,Sample,Sucrose,3600,1184,1,1,1,1,49,-3,12
+22,Sample,Sucrose,3600,1184,1,1,1,1,49,-3,12
+23,Sample,Sucrose,3600,1184,1,1,1,1,49,-3,12
+24,Sample,Sucrose,3500,1184,1,1,1,1,49,-3,12
+25,Sample,Sucrose,3500,1184,1,1,1,1,49,-3,12
+26,Sample,Sucrose,3500,1184,1,1,1,1,49,-3,12
+27,Sample,Sucrose,3300,1184,1,1,1,1,49,-3,12
+28,Sample,Sucrose,3300,1184,1,1,1,1,49,-3,12
+29,Sample,Sucrose,3300,1184,1,1,1,1,49,-3,12
+30,Sample,Sucrose,3300,1184,1,1,1,1,49,-3,12
+31,Sample,Sucrose,3300,1184,1,1,1,1,49,-3,12
+32,Dark,None,-1,-1,1,1,1,1,49,-3,12
+33,Dark,None,-1,-1,1,1,1,1,73,-3,0
+34,Dark,None,-1,-1,1,1,1,1,73,-3,12
+35,Dark,None,-1,-1,1,1,1,1,73,-3,12
+36,Background,None,3600,670,2,1,1,1,73,-3,12
+37,Background,None,4500,670,2,1,1,1,73,-3,12
+38,Sample,Sucrose,4500,670,2,1,1,1,73,-3,12
+39,Sample,Sucrose,4700,670,2,1,1,1,73,-3,12
+40,Sample,Sucrose,4700,670,2,1,1,1,73,-3,12
+41,Sample,Sucrose,5000,670,2,1,1,1,73,-3,12
+42,Dark,None,-1,-1,1,1,1,1,73,-3,12
+43,Void,None,-1,-1,1,1,1,1,73,-3,12
+44,Dark,None,-1,-1,1,1,1,1,73,-3,12
+45,Background,None,1300,800,2,2,1,1,73,-3,12
+46,Dark,None,-1,-1,1,1,1,1,73,-3,12
+47,Sample,Sucrose,1500,800,2,2,1,1,73,-3,12
+48,Sample,Sucrose,1600,800,2,2,1,1,73,-3,12
+49,Sample,Sucrose,4000,800,2,2,1,1,73,-3,12
+50,Buffer,Buffer,1400,800,1,2,1,1,73,-3,12
+51,Sample,Carboxysomes,1250,800,1,2,1,1,73,-3,12
+52,Sample,Carboxysomes,1400,800,1,2,1,1,73,-3,12
+53,Sample,Carboxysomes,1400,800,1,2,1,1,73,-3,12
+54,Sample,Carboxysomes,1400,800,1,2,1,1,73,-3,12
+55,Sample,Carboxysomes,1400,800,1,2,1,1,73,-3,12
+56,Sample,Carboxysomes,1300,800,1,2,1,1,73,-3,12
+57,Dark,None,-1,-1,1,1,1,1,73,-3,12
+58,Buffer,Buffer,1200,800,1,2,1,1,73,-3,12
+59,Buffer,Buffer,1400,800,1,2,1,1,73,-3,12
+60,Buffer,Buffer,1200,800,1,2,1,1,73,-3,12
+61,Buffer,Buffer,1250,800,1,2,1,1,73,-3,12
+62,Void,None,-1,-1,1,1,1,1,73,-3,12
+63,Dark,None,-1,-1,1,1,1,1,73,-3,12
+64,Sample,Carboxysomes,1300,800,1,1,1,1,73,-3,12
+65,Sample,Carboxysomes,1600,800,1,1,1,1,73,-3,12
+66,Sample,Carboxysomes,1700,800,1,1,1,1,73,-3,12
+67,Void,None,-1,-1,1,1,1,1,73,-3,12
+68,Buffer,Buffer,1250,800,1,1,1,1,73,-3,12
+69,Buffer,Buffer,1200,800,1,1,1,1,73,-3,12
+70,Sample,Carboxysomes,1200,800,1,1,1,1,73,-3,12
+71,Sample,Carboxysomes,1500,800,1,1,1,1,73,-3,12
+72,Sample,Carboxysomes,1700,800,1,1,1,1,73,-3,12
+73,Sample,Carboxysomes,1800,800,1,1,1,1,73,-3,12
+74,Dark,None,-1,-1,1,1,1,1,73,-3,12
+75,Sample,Trinity,1300,800,1,1,1,1,73,-3,12
+76,Sample,Trinity,1350,800,1,1,1,1,73,-3,12
+77,Dark,None,-1,-1,1,1,1,1,73,-3,12
+78,Sample,Trinity,2550,800,1,1,1,1,73,-3,12
+79,Dark,None,-1,-1,1,1,1,1,73,-3,12
+80,Sample,Sucrose,3000,900,1,1,1,1,73,-3,12
+81,Sample,Sucrose,3000,900,1,1,1,1,73,-3,12
+82,Sample,Sucrose,2700,900,1,1,1,1,73,-3,12
+83,Sample,Sucrose,2600,900,1,1,1,1,73,-3,12
+84,Dark,None,-1,-1,1,1,1,1,73,-3,12
+85,Void,None,-1,-1,1,1,1,1,73,-3,0
+86,Dark,None,-1,-1,1,1,1,1,73,-3,0
+87,Sample,Sucrose,2700,800,2,2,1,1,73,-3,0
+88,Sample,Sucrose,2800,800,2,2,1,1,73,-3,0
+89,Sample,Sucrose,3000,800,2,2,1,1,73,-3,0
+90,Sample,Sucrose,3000,800,2,2,1,1,73,-3,0
+91,Sample,Sucrose,3500,800,2,2,1,1,73,-3,0
+92,Sample,Sucrose,3500,800,2,2,1,1,73,-3,0
+93,Buffer,None,3500,800,2,2,1,1,73,-3,0
+94,Dark,None,-1,-1,1,1,1,1,73,-3,0
+95,Buffer,None,4000,800,2,2,1,1,73,-3,0
+96,Buffer,None,3500,800,2,2,1,1,73,-3,0
+97,Buffer,None,3500,800,2,2,1,1,73,-3,0
+98,Sample,PBCV,3500,800,2,2,1,1,73,-3,0
+99,Dark,None,-1,-1,1,1,1,1,73,-3,0
+100,Sample,PBCV,3300,800,2,2,1,1,32,-3,0
+101,Void,None,-1,-1,1,1,1,1,32,-3,0
+102,Dark,None,-1,-1,1,1,1,1,32,-3,0
+103,Buffer,None,2700,800,2,2,1,1,32,-3,12
+104,Buffer,None,2600,800,2,2,1,1,32,-3,12
+105,Buffer,None,2700,800,2,2,1,1,32,-3,12
+106,Sample,Carboxysomes,2700,800,2,2,1,1,32,-3,12
+107,Sample,Carboxysomes,2900,800,2,2,1,1,32,-3,12
+108,Sample,Carboxysomes,2900,800,2,2,1,1,32,-3,12
+109,Sample,Carboxysomes,3000,800,2,2,1,1,32,-3,12
+110,Sample,Carboxysomes,3300,800,2,2,1,1,32,-3,12
+111,Sample,Carboxysomes,2800,800,2,2,1,1,32,-3,12
+112,Sample,Carboxysomes,2700,800,2,2,1,1,32,-3,12
+113,Sample,Carboxysomes,2850,800,2,2,1,1,32,-3,12
+114,Sample,Carboxysomes,3100,800,2,2,1,1,32,-3,12
+115,Sample,Carboxysomes,3200,800,2,2,1,1,32,-3,12
+116,Sample,Carboxysomes,3200,800,2,2,1,1,32,-3,12
+117,Sample,Carboxysomes,3500,800,2,2,1,1,32,-3,12
+118,Sample,Carboxysomes,3300,800,2,2,1,1,32,-3,12
+119,Sample,Carboxysomes,3300,800,2,2,1,1,32,-3,12
+120,Sample,Carboxysomes,3300,800,2,1,1,1,32,-3,12
+121,Sample,Carboxysomes,3300,800,2,1,1,1,32,-3,12
+122,Sample,Carboxysomes,3000,800,2,1,1,1,32,-3,12
+123,Sample,Carboxysomes,3100,800,2,1,1,1,32,-3,12
+124,Sample,Carboxysomes,3100,800,2,1,1,1,32,-3,12
+125,Sample,Carboxysomes,3200,800,2,1,1,1,32,-3,12
+126,Sample,Carboxysomes,3500,800,2,1,1,1,32,-3,12
+127,Sample,Carboxysomes,3200,800,2,1,1,1,32,-3,12
+128,Sample,Carboxysomes,3100,800,2,1,1,1,32,-3,12
+129,Sample,Carboxysomes,3300,800,2,1,1,1,32,-3,12
+130,Sample,Carboxysomes,3300,800,2,1,1,1,32,-3,12
+131,Sample,Carboxysomes,3300,800,2,1,1,1,32,-3,12
+132,Sample,TBSV,3100,800,2,1,1,1,32,-3,12
+133,Sample,TBSV,3000,800,2,1,1,1,32,-3,12
+134,Sample,TBSV,3200,800,2,1,1,1,32,-3,12
+135,Sample,TBSV,3000,800,2,1,1,1,32,-3,12
+136,Dark,None,-1,-1,1,1,1,1,32,-3,12
+137,Sample,TBSV,3300,800,2,1,1,1,32,-3,12
+138,Sample,TBSV,3000,800,2,1,1,1,32,-3,12
+139,Sample,TBSV,3000,800,2,1,1,1,32,-3,12
+140,Sample,TBSV,3100,800,2,1,1,1,32,-3,12
+141,Sample,TBSV,2800,800,2,1,1,1,32,-3,12
+142,Sample,TBSV,2700,800,2,1,1,1,32,-3,12
+143,Sample,MS2,2600,800,2,1,1,1,32,-3,12
+144,Sample,MS2,2900,800,2,1,1,1,32,-3,12
+145,Void,None,-1,-1,1,1,1,1,32,-3,12
+146,Buffer,None,-1,800,1,1,1,1,32,-3,12
+147,Background,None,-1,800,1,1,1,1,32,-3,12
+148,Buffer,None,-1,800,1,1,1,1,32,-3,12
+149,Sample,Rubisco,-1,800,1,1,1,1,32,-3,12
+150,Sample,Rubisco,-1,800,1,1,1,1,32,-3,12
+151,Background,None,-1,800,1,1,1,1,32,-3,12
+152,Background,None,-1,800,1,1,1,1,32,-3,12
+153,Background,None,-1,800,1,1,1,1,32,-3,12
+154,Background,None,-1,800,1,1,1,1,32,-3,12
+155,Dark,None,-1,-1,1,1,1,1,32,-3,12
+156,Void,None,-1,-1,1,1,1,1,32,-3,0
+157,Dark,None,-1,-1,1,1,1,1,32,-3,0
+158,Sample,Sucrose,1500,800,2,2,1,1,32,-3,0
+159,Sample,Sucrose,2000,800,2,2,1,1,32,-3,0
+160,Dark,None,-1,-1,1,1,1,1,24,-3,0
+161,Sample,Rubisco,-1,800,1,2,1,1,24,-3,0
+162,Sample,Rubisco,-1,800,1,2,1,1,24,-3,12
+163,Sample,Rubisco,-1,800,1,2,1,1,24,-3,12
+164,Sample,Rubisco,-1,800,1,2,1,1,24,-3,12
+165,Dark,None,-1,-1,1,1,1,1,24,-3,12
+166,Sample,Sucrose,2600,800,2,2,1,1,44,-3,12
+167,Sample,Sucrose,2700,800,2,2,1,1,44,-3,12
+168,Sample,Sucrose,3000,800,2,2,1,1,44,-3,12
+169,Dark,None,-1,-1,1,1,1,1,44,-3,12
+170,Buffer,None,2600,800,2,2,1,1,44,-3,12
+171,Sample,TBSV,2700,800,2,2,1,1,44,-3,12
+172,Sample,TBSV,2700,800,2,2,1,1,44,-3,12
+173,Sample,TBSV,2700,800,2,2,1,1,44,-3,12
+174,Sample,TBSV,2700,800,2,2,1,1,44,-3,12
+175,Sample,TBSV,2700,800,2,2,1,1,44,-3,12
+176,Sample,TBSV,2750,800,2,2,1,1,44,-3,12
+177,Sample,TBSV,2700,800,2,2,1,1,44,-3,12
+178,Sample,TBSV,2900,800,2,2,1,1,44,-3,12
+179,Sample,TBSV,2700,800,2,2,1,1,44,-3,12
+180,Sample,TBSV,2700,800,2,2,1,1,44,-3,12
+181,Sample,TBSV,2700,800,2,1,1,1,44,-3,12
+182,Sample,TBSV,2700,800,2,1,1,1,44,-3,12
+183,Sample,TBSV,2700,800,2,1,1,1,44,-3,12
+184,Dark,None,-1,-1,1,1,1,1,44,-3,12
+185,Buffer,None,-1,800,1,1,1,1,44,-3,12
+186,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+187,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+188,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+189,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+190,Void,None,-1,-1,1,1,1,1,44,-3,12
+191,Dark,None,-1,-1,1,1,1,1,44,-3,12
+192,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+193,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+194,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+195,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+196,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+197,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+198,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+199,Sample,Rubisco,-1,800,1,1,1,1,44,-3,12
+200,Sample,Rubisco,-1,800,1,1,1,1,46,-3,12
+201,Dark,None,-1,800,1,1,1,1,46,-3,12
+202,Sample,Rubisco,-1,800,1,1,1,1,46,-3,12
+203,Buffer,None,-1,800,1,1,1,1,46,-3,12
+204,Sample,Rubisco,-1,800,1,1,1,1,46,-3,12
+205,Sample,Rubisco,-1,800,1,1,1,1,46,-3,12
+206,Sample,Rubisco,-1,800,1,1,1,1,46,-3,12
+207,Void,None,-1,-1,1,1,1,1,46,-3,12
+208,Void,None,-1,-1,1,1,1,1,46,-3,12
+209,Void,None,-1,-1,1,1,1,1,46,-3,12
+210,Void,None,-1,-1,1,1,1,1,46,-3,12
+211,Void,None,-1,-1,1,1,1,1,46,-3,12
+212,Void,None,-1,-1,1,1,1,1,46,-3,12
+213,Void,None,-1,-1,1,1,1,1,46,-3,12
+214,Void,None,-1,-1,1,1,1,1,46,-3,12
+215,Void,None,-1,-1,1,1,1,1,46,-3,12
+216,Void,None,-1,-1,1,1,1,1,46,-3,12
+217,Void,None,-1,-1,1,1,1,1,46,-3,12
+218,Void,None,-1,-1,1,1,1,1,46,-3,12
+219,Void,None,-1,-1,1,1,1,1,46,-3,12
+220,Void,None,-1,-1,1,1,1,1,46,-3,12
+221,Void,None,-1,-1,1,1,1,1,46,-3,12
+222,Void,None,-1,-1,1,1,1,1,46,-3,12
+223,Void,None,-1,-1,1,1,1,1,46,-3,12
+224,Void,None,-1,-1,1,1,1,1,46,-3,12
+225,Void,None,-1,-1,1,1,1,1,46,-3,12
+226,Void,None,-1,-1,1,1,1,1,46,-3,12
+227,Void,None,-1,-1,1,1,1,1,46,-3,12
+228,Void,None,-1,-1,1,1,1,1,46,-3,12
+229,Void,None,-1,-1,1,1,1,1,46,-3,12
+230,Void,None,-1,-1,1,1,1,1,46,-3,12
+231,Void,None,-1,-1,1,1,1,1,46,-3,12
+232,Sample,Sucrose,4200,800,2,2,1,1,46,-3,12
+233,Sample,Sucrose,4100,800,2,2,1,1,46,-3,12
+234,Sample,Sucrose,4100,800,2,2,1,1,46,-3,12
+235,Sample,Sucrose,4100,800,2,2,1,1,46,-3,12
+236,Sample,Sucrose,4300,800,2,2,1,1,46,-3,12
+237,Sample,Sucrose,4700,800,2,2,1,1,46,-3,12
+238,Sample,Sucrose,4300,800,2,2,1,1,46,-3,12
+239,Void,None,-1,-1,1,1,1,1,46,-3,12
+240,Sample,TBSV,4600,800,2,2,1,1,46,-3,12
+241,Sample,TBSV,4500,800,2,2,1,1,46,-3,12
+242,Sample,TBSV,4400,800,2,2,1,1,46,-3,12
+243,Sample,TBSV,4500,800,2,2,1,1,46,-3,12
+244,Sample,TBSV,4500,800,2,2,1,1,46,-3,12
+245,Sample,TBSV,4500,800,2,2,1,1,46,-3,12
+246,Sample,TBSV,4500,800,2,2,1,1,46,-3,12
+247,Sample,TBSV,4400,800,2,2,1,1,46,-3,12
+248,Dark,None,-1,-1,1,1,1,1,46,-3,12
+249,Sample,Rubisco,4100,800,2,2,1,1,46,-3,12
+250,Sample,Rubisco,6000,800,2,2,1,1,46,-3,12
+251,Sample,Rubisco,5900,800,2,2,1,1,46,-3,12
+252,Sample,Rubisco,-1,800,2,2,1,1,46,-3,12
+253,Sample,Rubisco,-1,800,2,2,1,1,46,-3,12
+254,Sample,Rubisco,-1,800,2,2,1,1,46,-3,12
+255,Background,None,6300,800,2,2,1,1,46,-3,12
+256,Background,None,1000,800,2,2,1,1,46,-3,12
+257,Dark,None,-1,-1,1,1,1,1,46,-3,12
