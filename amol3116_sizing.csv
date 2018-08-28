@@ -1,2 +1,2 @@
 RunNr;SampleType;ExpectedSizeNM;PhotonEnergyEV;DetectorDistanceMM;SaturationLevelADU;Material;Buffer;Downsampling;CenterMaxShift;CenterThreshold;CenterBlur;SizingBruteEvals;SizingMaxRadius;SizingMaskRadius;SizingThreshold
-142;Sucrose;55;800;370;10000;sucrose;;4;10;0,5;4;100;500;100;0
+142;Sucrose;55;800;370;10000;sucrose;;4;10;0.5;4;100;500;100;0
