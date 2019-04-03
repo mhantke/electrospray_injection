@@ -13,9 +13,7 @@ sys.path.append(this_dir)
 do_online = False
 do_autoonline = True
 
-# --------------------------------------
-# P S A N A (AMOC6914) - Use for testing
-# --------------------------------------
+# Psana
 state = {}
 state['Facility'] = 'LCLS'
 

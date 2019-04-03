@@ -13,9 +13,7 @@ sys.path.append(this_dir)
 do_online = False
 do_autoonline = True
 
-# --------------------------------------
-# P S A N A (AMOC6914) - Use for testing
-# --------------------------------------
+# PSANA
 state = {}
 state['Facility'] = 'LCLS'
 
@@ -39,7 +37,6 @@ else:
 state['LCLS/PsanaConf'] = this_dir + '/psana_cfg/pnccd_front.cfg'
 
 # Read events from file
-#idxfile = '/reg/d/psdm/amo/amol3116/scratch/hummingbird/hits/r0142_hits_done.h5'
 idxfile = None
 
 # INJECTOR MOTORS
@@ -76,7 +73,7 @@ pnccd_type = "image"
 pnccd_key  = "pnccdFront[%s]" % pnccd_type
 gain_mode_key = "PNCCD:FRONT:GAIN"
 
-dx_front  = 73 #24#32 #73x
+dx_front  = 73
 dy_front  = -3
 
 # PNCCD STAGE
